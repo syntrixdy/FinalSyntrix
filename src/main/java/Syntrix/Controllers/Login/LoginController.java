@@ -12,5 +12,4 @@ public class LoginController {
 	 public String SyntrixLogin(Model model){
 		 return "Syntrix/Login";
 	 }
-
 }
